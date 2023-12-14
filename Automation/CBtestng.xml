@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CrossBrowserSuite">
+
+    <test name="FacebookTestOnChrome">
+        <parameter name="browser" value="Chrome" />
+        <classes>
+            <class name="TestNG.CBtesting.xml" />
+            <methods>
+                <include name="facebookTest" />
+            </methods>
+        </classes>
+    </test>
+
+    <test name="FacebookTestOnEdge">
+        <parameter name="browser" value="Edge" />
+        <classes>
+            <class name="TestNG.CrossBrowser" />
+            <methods>
+                <include name="facebookTest" />
+            </methods>
+        </classes>
+    </test>
+
+</suite>

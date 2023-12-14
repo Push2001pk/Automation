@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="selenium-server-4.12.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Eclipse Programs/Selenium/Automation/selenium-server-4.15.0.jar"/>
+	<classpathentry kind="lib" path="Sikuli_Jar/sikulixide-2.0.5-win.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/poi-examples-5.2.3.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/poi-excelant-5.2.3.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/poi-javadoc-5.2.3.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/poi-ooxml-full-5.2.3.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/poi-scratchpad-5.2.3.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="ApachePOi/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
